@@ -11,11 +11,11 @@ npx sayak
 
 <br />
 
-### <strong>🚀 DEMO</strong>
+<!-- ### <strong>🚀 DEMO</strong>
 
 ![demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1610360119791/rLM8MkTgG.gif)
 
-<br />
+<br /> -->
 
 
 <br />
