@@ -13,7 +13,7 @@ npx sayak
 
 ### <strong>🚀 DEMO</strong>
 
-![demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1610360119791/rLM8MkTgG.gif)
+![demo.gif](https://raw.githubusercontent.com/sayak-dutta/npx_card/main/demo.gif)
 
 <br />
 
