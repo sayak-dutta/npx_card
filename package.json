@@ -29,7 +29,8 @@
     "npm card",
     "npx",
     "npx card",
-    "business card"
+    "business card",
+    "cli"
   ],
   "license": "ISC"
 }
