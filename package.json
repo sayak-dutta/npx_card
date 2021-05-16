@@ -1,6 +1,6 @@
 {
   "name": "sayak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sayak Dutta <dsayak29@gmail.com> (https://sayak-dutta.github.io)",
   "description": "A personal card for Sayak Dutta",
   "main": "card.js",
